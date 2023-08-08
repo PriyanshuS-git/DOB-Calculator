@@ -1,5 +1,5 @@
 # DOB-Calculator
-DOBCalc is an Android-based application that allow  user to calculate their age in minutes. The app is so simple, and the user will find it extremely easy to select a date and press enter to get the correct age in minutes.
+DOBCalc is an Android-based application that allows users to calculate their age in minutes. The app is simple, and the user will find it extremely easy to select a date and press enter to get the correct age in minutes.
 
 
 <img src = "https://user-images.githubusercontent.com/100298305/189280087-24f7140b-78be-4650-9b65-9f73b6fd9f8e.gif" width ="200">
